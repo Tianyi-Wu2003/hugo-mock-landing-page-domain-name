@@ -5,7 +5,7 @@ date: 2022-05-22T13:35:02+01:00
 draft: false
 images: ["site-feature-image.png"]
 categories: ["Hugo Bootstrap Theme"]
-tags: ["Hugo","Bootstrap","Featured"]
+tags: ["Hugo", "Bootstrap", "Featured"]
 keywords: ["hugo bootstrap theme"]
 authors: ["Filipe Carneiro"]
 aliases:
