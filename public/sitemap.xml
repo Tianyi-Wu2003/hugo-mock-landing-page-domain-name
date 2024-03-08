@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/hugo-bootstrap-theme/authors/</loc>
-    <lastmod>2024-03-06T22:28:58-05:00</lastmod>
+    <lastmod>2024-03-07T23:42:33-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -18,7 +18,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/hugo-bootstrap-theme/</loc>
-    <lastmod>2024-03-06T22:28:58-05:00</lastmod>
+    <lastmod>2024-03-06T22:48:03-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -108,16 +108,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/hugo-bootstrap-theme/contact/</loc>
-    <lastmod>2024-03-06T22:04:41-05:00</lastmod>
+    <lastmod>2024-03-06T22:48:03-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/hugo-bootstrap-theme/page/</loc>
-    <lastmod>2024-03-06T22:04:41-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/hugo-bootstrap-theme/authors/filipe-carneiro/</loc>
     <lastmod>2024-03-06T22:04:41-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -158,6 +153,11 @@
   </url><url>
     <loc>http://localhost:1313/hugo-bootstrap-theme/about.pt/</loc>
     <lastmod>2024-03-06T22:04:41-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/hugo-bootstrap-theme/authors/filipe-carneiro/</loc>
+    <lastmod>2024-03-07T23:42:33-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
