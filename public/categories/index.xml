@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on FitConnect</title>
-    <link>http://localhost:1313/Tianyi-Wu2003/hugo-mock-landing-page/categories/</link>
+    <link>https://github.com/Tianyi-Wu2003/hugo-mock-landing-page/categories/</link>
     <description>Recent content in Categories on FitConnect</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Tianyi Wu</copyright>
     <lastBuildDate>Wed, 06 Mar 2024 22:04:41 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/Tianyi-Wu2003/hugo-mock-landing-page/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/Tianyi-Wu2003/hugo-mock-landing-page/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Bootstrap Blog</title>
-      <link>http://localhost:1313/Tianyi-Wu2003/hugo-mock-landing-page/categories/the-bootstrap-blog/</link>
+      <link>https://github.com/Tianyi-Wu2003/hugo-mock-landing-page/categories/the-bootstrap-blog/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/Tianyi-Wu2003/hugo-mock-landing-page/categories/the-bootstrap-blog/</guid>
+      <guid>https://github.com/Tianyi-Wu2003/hugo-mock-landing-page/categories/the-bootstrap-blog/</guid>
       <description></description>
     </item>
   </channel>
