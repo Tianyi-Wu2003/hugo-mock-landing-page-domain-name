@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FitConnect</title>
-    <link>https://Tianyi-Wu2003.github.io/hugo-mock-landing-page-domain-name/</link>
+    <link>https://wty.boats/</link>
     <description>Recent content on FitConnect</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Tianyi Wu</copyright>
     <lastBuildDate>Fri, 15 Mar 2024 18:46:23 -0400</lastBuildDate>
-    <atom:link href="https://Tianyi-Wu2003.github.io/hugo-mock-landing-page-domain-name/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wty.boats/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bootstrap 5.3.0</title>
-      <link>https://Tianyi-Wu2003.github.io/hugo-mock-landing-page-domain-name/post/bootstrap-5-3-0/</link>
+      <link>https://wty.boats/post/bootstrap-5-3-0/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0100</pubDate>
-      <guid>https://Tianyi-Wu2003.github.io/hugo-mock-landing-page-domain-name/post/bootstrap-5-3-0/</guid>
+      <guid>https://wty.boats/post/bootstrap-5-3-0/</guid>
       <description>{ .img-fluid }&#xA;It’s official, the final stable release of v5.3.0 has landed! It’s been a monumental effort to revamp our codebase for CSS variables and color modes, one that will see continued changes leading up to an eventual Bootstrap 6. And we’re so excited to finally ship it!&#xA;On top of all the work that’s gone into this release, a lot has happened behind the scenes since we shipped our pre-releases.</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://Tianyi-Wu2003.github.io/hugo-mock-landing-page-domain-name/about/</link>
+      <link>https://wty.boats/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Tianyi-Wu2003.github.io/hugo-mock-landing-page-domain-name/about/</guid>
+      <guid>https://wty.boats/about/</guid>
       <description>About Us Made with ❤️ by the Hugo Bootstrap Theme team.</description>
     </item>
     <item>
       <title>Code of Conduct</title>
-      <link>https://Tianyi-Wu2003.github.io/hugo-mock-landing-page-domain-name/code-of-conduct/</link>
+      <link>https://wty.boats/code-of-conduct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Tianyi-Wu2003.github.io/hugo-mock-landing-page-domain-name/code-of-conduct/</guid>
+      <guid>https://wty.boats/code-of-conduct/</guid>
       <description>Contributor Covenant Code of Conduct Our Pledge We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.&#xA;We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://Tianyi-Wu2003.github.io/hugo-mock-landing-page-domain-name/contact/</link>
+      <link>https://wty.boats/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Tianyi-Wu2003.github.io/hugo-mock-landing-page-domain-name/contact/</guid>
+      <guid>https://wty.boats/contact/</guid>
       <description>Contact Open an issue on GitHub.</description>
     </item>
     <item>
       <title>Markdown Cheat Sheet Ⓜ️⬇️</title>
-      <link>https://Tianyi-Wu2003.github.io/hugo-mock-landing-page-domain-name/page/markdown-cheat-sheet/</link>
+      <link>https://wty.boats/page/markdown-cheat-sheet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Tianyi-Wu2003.github.io/hugo-mock-landing-page-domain-name/page/markdown-cheat-sheet/</guid>
+      <guid>https://wty.boats/page/markdown-cheat-sheet/</guid>
       <description>Markdown Cheat Sheet Hugo has excellent Markdown support out of the box. By default, Hugo uses the Goldmark Markdown processor which is fully CommonMark-compliant. See the configuration instructions to learn more about the extensions you can configure.&#xA;Overview You can refer to the table below for an overview of basic markdown syntax:&#xA;TASK MARKDOWN SYNTAX Heading 1 # Heading 2 ## Heading 3 ### Italics *italics* Bold **Bold** Strike ~~strike~~ Blockquote &amp;gt; Links [link name](https://link.</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>https://Tianyi-Wu2003.github.io/hugo-mock-landing-page-domain-name/privacy-policy/</link>
+      <link>https://wty.boats/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Tianyi-Wu2003.github.io/hugo-mock-landing-page-domain-name/privacy-policy/</guid>
+      <guid>https://wty.boats/privacy-policy/</guid>
       <description>Privacy Policy TLDR: We do not use cookies and we do not collect any personal data.&#xA;Website visitors No personal information is collected. No information is stored in the browser. No information is shared with, sent to or sold to third-parties. No information is shared with advertising companies. No information is mined and harvested for personal and behavioral trends. No information is monetized. Information we collect and what we use it for The server hosting this site can collect the following information:</description>
     </item>
     <item>
       <title>Security Best Practices 🔒</title>
-      <link>https://Tianyi-Wu2003.github.io/hugo-mock-landing-page-domain-name/page/security-best-practices/</link>
+      <link>https://wty.boats/page/security-best-practices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Tianyi-Wu2003.github.io/hugo-mock-landing-page-domain-name/page/security-best-practices/</guid>
+      <guid>https://wty.boats/page/security-best-practices/</guid>
       <description>Security Best Practices Improve code health of your web page following these best practices.&#xA;Use HTTPS All websites should be protected with HTTPS, even ones that don&amp;rsquo;t handle sensitive data. HTTPS prevents intruders from tampering with or passively listening in on the communications between your site and your users.&#xA;External Links When you link to a page on another site using the target=&amp;quot;_blank&amp;quot; attribute, you can expose your site to performance and security issues:</description>
     </item>
     <item>
       <title>Sobre</title>
-      <link>https://Tianyi-Wu2003.github.io/hugo-mock-landing-page-domain-name/about.pt/</link>
+      <link>https://wty.boats/about.pt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Tianyi-Wu2003.github.io/hugo-mock-landing-page-domain-name/about.pt/</guid>
+      <guid>https://wty.boats/about.pt/</guid>
       <description>Sobre nós Feito com ❤️ pela equipa Hugo Bootstrap Theme.</description>
     </item>
   </channel>
